@@ -1,0 +1,66 @@
+body{
+    background-image: url('pexels-eberhardgross-2098428.jpg');
+    background-position: center;
+    background-size: cover;
+    color: aliceblue;
+    font-family:sans-serif;
+    margin: 0 4rem;
+}
+
+.nav{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: rgba(101, 97, 97, 0.392);
+    border-radius: 12px;
+    padding: .5rem 1rem;
+}
+
+.nav ul{
+    display: flex;
+    gap: 1.5rem;
+    
+    
+}
+    
+.nav-btn{
+    background-color: rgba(252, 250, 250, 0.096);
+    padding: .5rem 1rem;
+    border-radius: 12px;
+    margin-right: 1rem;
+}
+
+
+.main{
+
+}
+
+.prim-btn,.sec-btn{
+    border-radius: 8px;
+    background-color: rgb(236, 132, 35);
+    color: #ffffff;
+    padding: .5rem 1rem;
+    font-size: 1rem;
+}
+
+.sec-btn{
+    background-color: #00000056;
+}
+
+.main h3{
+    font-weight: 100; 
+    font-size: 21px;
+    color: #ffffffeb;
+}
+.btn-container{
+    width: 35rem
+}
+
+.main h1{
+    font-size: 5rem;
+}
+
+.nav ul>li>a{
+    text-decoration: none;  
+    color: #ffffff;
+}
