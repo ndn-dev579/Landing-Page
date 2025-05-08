@@ -14,6 +14,7 @@ body{
     background-color: rgba(101, 97, 97, 0.392);
     border-radius: 12px;
     padding: .5rem 1rem;
+    
 }
 
 .nav ul{
@@ -21,6 +22,10 @@ body{
     gap: 1.5rem;
     
     
+}
+
+.nav h2{
+   
 }
     
 .nav-btn{
